@@ -16,7 +16,7 @@ const IndexPage = () => {
   return (
     <div>
       <Layout>
-        <h1>Hello Worlds - new version</h1>
+        <h1>Hello Worlds - another new version</h1>
         <p>here is some text</p>
         <Link to="/page-2/">Page 2</Link>
       </Layout>
