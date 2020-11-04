@@ -11,6 +11,7 @@ module.exports = {
     author: 'Gordon Lindsay'
   },
   plugins: [
-    'gatsby-plugin-sass'
+    'gatsby-plugin-sass',
+    'gatsby-plugin-netlify-cms'
   ],
 }
